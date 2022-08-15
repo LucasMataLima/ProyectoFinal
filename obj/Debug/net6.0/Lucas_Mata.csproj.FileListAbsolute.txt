@@ -1,0 +1,59 @@
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\bin\Debug\net6.0\Lucas_Mata.exe
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\bin\Debug\net6.0\Lucas_Mata.deps.json
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\bin\Debug\net6.0\Lucas_Mata.runtimeconfig.json
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\bin\Debug\net6.0\Lucas_Mata.dll
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\bin\Debug\net6.0\Lucas_Mata.pdb
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.csproj.AssemblyReference.cache
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.AssemblyInfoInputs.cache
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.AssemblyInfo.cs
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.csproj.CoreCompileInputs.cache
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.dll
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\refint\Lucas_Mata.dll
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.pdb
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\Lucas_Mata.genruntimeconfig.cache
+C:\Users\EW728QB\OneDrive - EY\Desktop 1\Angular\CoderHouse\Lucas_Mata\obj\Debug\net6.0\ref\Lucas_Mata.dll
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.csproj.AssemblyReference.cache
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.AssemblyInfoInputs.cache
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.AssemblyInfo.cs
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.csproj.CoreCompileInputs.cache
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.dll
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\refint\Lucas_Mata.dll
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.pdb
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\Lucas_Mata.exe
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\Lucas_Mata.deps.json
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\Lucas_Mata.runtimeconfig.json
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\Lucas_Mata.dll
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\Lucas_Mata.pdb
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Repos\Coder\TP-CoderHouse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.csproj.CopyComplete
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\Lucas_Mata.genruntimeconfig.cache
+E:\Repos\Coder\TP-CoderHouse\obj\Debug\net6.0\ref\Lucas_Mata.dll
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.csproj.AssemblyReference.cache
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.AssemblyInfoInputs.cache
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.AssemblyInfo.cs
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.csproj.CoreCompileInputs.cache
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.dll
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\refint\Lucas_Mata.dll
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.pdb
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\Lucas_Mata.exe
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\Lucas_Mata.deps.json
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\Lucas_Mata.runtimeconfig.json
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\Lucas_Mata.dll
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\Lucas_Mata.pdb
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Repos\Coder\TP1-CoderHouse\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.csproj.CopyComplete
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\Lucas_Mata.genruntimeconfig.cache
+E:\Repos\Coder\TP1-CoderHouse\obj\Debug\net6.0\ref\Lucas_Mata.dll
