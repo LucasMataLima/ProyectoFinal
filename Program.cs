@@ -75,6 +75,11 @@ namespace Lucas_Mata
                     }
                 Console.WriteLine();
             }
+            else
+            {
+                Console.WriteLine(Checkin.Nombre);
+            }
+            Console.ReadLine();
         }
     }
 }
