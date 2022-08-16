@@ -10,11 +10,11 @@ namespace Lucas_Mata.DataBase
         public List<ProductoVendido> GetProductoVendido(int IdUsuario)
         {
             List<ProductoVendido> productosVendidos = new List<ProductoVendido>();
-           
+
             // el ConnectionString se encuientra en DBHandler
             using (SqlConnection sqlConnection = new SqlConnection(ConnectionString))
             {
-                
+
                 //Producto ------------------
                 //Instancia del controlador 
                 ProductoHandler productoHandler = new ProductoHandler();
@@ -28,7 +28,7 @@ namespace Lucas_Mata.DataBase
                     using (SqlCommand sqlCommand = new SqlCommand(query, sqlConnection))
                     {
                         sqlConnection.Open();
-                        sqlCommand.Parameters.Add(new SqlParameter("Id", SqlDbType.BigInt) { Value = producto.Id});
+                        sqlCommand.Parameters.Add(new SqlParameter("Id", SqlDbType.BigInt) { Value = producto.Id });
                         using (SqlDataReader dataReader = sqlCommand.ExecuteReader())
                         {
                             if (dataReader.HasRows)

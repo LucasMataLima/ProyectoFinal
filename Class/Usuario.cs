@@ -9,6 +9,5 @@
         public string NombreUsuario { get; set; }
         public string Contraseña { get; set; }
         public string Mail { get; set; }
-        public List<Producto> producto { get; set; }
     }
 }

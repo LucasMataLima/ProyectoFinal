@@ -2,7 +2,7 @@
 
 namespace Lucas_Mata
 {
-    public class Venta 
+    public class Venta
     {
         //---- Property 
         public long Id { get; set; }
