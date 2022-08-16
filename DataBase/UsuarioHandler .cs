@@ -1,41 +1,41 @@
 ﻿using Lucas_Mata.Class;
+using System.Data;
 using System.Data.SqlClient;
 
 namespace Lucas_Mata.DataBase
 {
     public class UsuarioHandler : DBHandler
     {
-        public List<Usuario> GetUsuario()
+        public Usuario GetUsuario(string NombreUsuario)
         {
-            List<Usuario> usuarios = new List<Usuario>();
-
+            Usuario usuario = new Usuario();
+            // el ConnectionString se encuientra en DBHandler
             using (SqlConnection sqlConnection = new SqlConnection(ConnectionString))
             {
-                using (SqlCommand sqlCommand = new SqlCommand(
-                    "SELECT * FROM Usuario", sqlConnection))
+                var query = "SELECT * FROM Usuario where NombreUsuario = @NombreUsuario";
+                using (SqlCommand sqlCommand = new SqlCommand(query, sqlConnection))
                 {
                     sqlConnection.Open();
+                    sqlCommand.Parameters.Add(new SqlParameter("NombreUsuario", SqlDbType.VarChar) { Value = NombreUsuario });
                     using (SqlDataReader dataReader = sqlCommand.ExecuteReader())
                     {
                         if (dataReader.HasRows)
                         {
                             while (dataReader.Read())
                             {
-                                Usuario usuario = new Usuario();
                                 usuario.Id = Convert.ToInt32(dataReader["ID"]);
                                 usuario.Nombre = dataReader["Nombre"].ToString();
                                 usuario.Apellido = dataReader["Apellido"].ToString();
                                 usuario.NombreUsuario = dataReader["NombreUsuario"].ToString();
-                                usuario.Contrasenia = dataReader["Contrasenia"].ToString();
+                                usuario.Contraseña = dataReader["Contraseña"].ToString();
                                 usuario.Mail = dataReader["Mail"].ToString();
-                                usuarios.Add(usuario);
                             }
                         }
                     }
                     sqlConnection.Close();
                 }
             }
-            return usuarios;
+            return usuario;
         }
     }
 }
